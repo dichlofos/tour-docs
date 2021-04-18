@@ -8,7 +8,8 @@
 |-|-|-|-|-|
 2014 | 1ГУ | + |          | справка
 2015 | 2ГУ | + |          | справка
-2016 | 3ГУ | + |          | -
+2016 | 3ПУ | + |          | -
+2017 | 3ГУ | + |          | -
 2018 | 3ГУ | + |          | [протокол Чемпионата ЦФО](https://fst-otm.net/file/rezult/marshrut_scan/2018_cfo/cfo2018_protokol_f9_gornyj.jpg)
 2019 | 1ГР |   |  +       | справка
 2020 | 2ГР |   |  +       | [протокол КМ 2020](https://fst-otm.net/file/rezult/marshrut_scan/2021_km/km2021_gory_1ks_f9.pdf)
